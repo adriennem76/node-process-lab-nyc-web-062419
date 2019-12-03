@@ -1,1 +1,1 @@
-module.exports = {global.process.env}
+module.exports = process.env
