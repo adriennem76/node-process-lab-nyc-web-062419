@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-12-03T20:53:48.461Z",
+    "end": "2019-12-03T20:53:48.473Z",
+    "duration": 12
+  },
+  "tests": [
+    {
+      "title": "must have version v8.16.2",
+      "fullTitle": "node must have version v8.16.2",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be darwin,linux",
+      "fullTitle": "platform must be darwin,linux",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be undefined",
+      "fullTitle": "env var NODE_ENV must be undefined",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "must have version v8.16.2",
+      "fullTitle": "node must have version v8.16.2",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be darwin,linux",
+      "fullTitle": "platform must be darwin,linux",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "must be undefined",
+      "fullTitle": "env var NODE_ENV must be undefined",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
